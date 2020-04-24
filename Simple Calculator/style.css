@@ -1,0 +1,45 @@
+.body {
+    font-family: sans-serif;
+    background: black;
+    color: white;
+}
+
+.title {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 52px;
+    color: white;
+}
+
+.input {
+    width: 100%;
+    color: white;
+    background: black;
+    border: solid 1px #FFF;
+    font-size: 35px;
+    padding: 2px;
+    text-align: center;
+}
+
+.result-container {
+    width: 50%;
+    color: white;
+    background: black;
+    margin: 50px auto 0;
+    border: solid 1px #FFF;
+    padding: 2px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.result-container .title {
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+
+.version {
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+}
