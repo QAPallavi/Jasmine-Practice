@@ -1,5 +1,5 @@
 language: node_js
-node_js: -"v12.14.1"
+node_js: -"12.14.1"
 install: -npm install
 script: -npm test
 
